@@ -1,4 +1,4 @@
-const CACHE_NAME = 'oss-study-v1.2'; 
+const CACHE_NAME = 'oss-study-v1.3'; 
 const assets = [
     './',
     './index.html',
